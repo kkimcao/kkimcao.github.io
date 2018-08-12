@@ -1,0 +1,37 @@
+
+
+header {
+	
+	background-repeat:no-repeat;
+	height:100px;
+	padding-left: 120px;
+	display: block; 
+	border-bottom:1px solid black;
+	padding-bottom: 15px;
+
+	
+}
+
+h1{
+	font-weight: bold;
+}
+
+
+footer{
+	border-top:1px solid black;
+
+	}
+	
+body{
+	width:1000px;
+	margin:auto;
+	font-family: arial;
+}
+
+main{
+			margin-left:150px;
+			padding-left:10px;
+			padding-bottom: 20px;
+			padding-top: 20px;
+			}
+			
